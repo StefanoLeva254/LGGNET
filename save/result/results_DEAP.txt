@@ -1,0 +1,2046 @@
+
+2023-06-07 11:33:10.058498
+Train:Parameter setting for LGGNet on DEAP
+1)number_class:2
+2)random_seed:2021
+3)learning_rate:0.001
+4)pool:16
+5)num_epochs:10
+6)batch_size:64
+7)dropout:0.5
+8)hidden_node:32
+9)input_shape:(1, 32, 512)
+10)class:V
+11)T:64
+12)graph-type:gen
+
+2023-06-07 11:36:24.704805
+Train:Parameter setting for LGGNet on DEAP
+1)number_class:2
+2)random_seed:2021
+3)learning_rate:0.001
+4)pool:16
+5)num_epochs:200
+6)batch_size:64
+7)dropout:0.5
+8)hidden_node:32
+9)input_shape:(1, 32, 512)
+10)class:V
+11)T:64
+12)graph-type:gen
+
+2023-06-07 11:50:02.518874
+Train:Parameter setting for LGGNet on DEAP
+1)number_class:2
+2)random_seed:2021
+3)learning_rate:0.001
+4)pool:16
+5)num_epochs:200
+6)batch_size:64
+7)dropout:0.5
+8)hidden_node:32
+9)input_shape:(1, 32, 512)
+10)class:V
+11)T:64
+12)graph-type:gen
+0.54,0.5504885993485342
+0.5716666666666667,0.6474622770919068
+0.5566666666666666,0.6346153846153845
+0.5883333333333334,0.5030181086519114
+0.6183333333333333,0.7162329615861215
+0.7133333333333334,0.831041257367387
+0.635,0.767268862911796
+0.5016666666666667,0.5864453665283541
+0.66,0.6761904761904762
+0.715,0.7182866556836902
+0.49666666666666665,0.6138107416879796
+0.5866666666666667,0.6342182890855457
+0.6716666666666666,0.614481409001957
+0.6166666666666667,0.6290322580645162
+0.6816666666666666,0.6944000000000001
+0.6333333333333333,0.4786729857819905
+0.5033333333333333,0.595108695652174
+0.6616666666666666,0.7304116865869854
+0.5666666666666667,0.6551724137931034
+0.6366666666666667,0.6955307262569833
+0.4683333333333333,0.5449358059914408
+0.6316666666666667,0.6032315978456013
+0.6316666666666667,0.7525195968645015
+0.4,0.3771626297577855
+0.47,0.4854368932038835
+0.6516666666666666,0.7654320987654322
+0.715,0.8321884200196271
+0.5883333333333334,0.7048984468339307
+0.5566666666666666,0.6527415143603134
+0.615,0.7508090614886732
+0.5416666666666666,0.6566791510611735
+0.5166666666666667,0.5454545454545455
+test mAcc=0.5919270833333333 mF1=0.6451055911729283 val mAcc=0.0 val F1=0.0
+
+2023-06-07 12:16:36.649888
+Train:Parameter setting for LGGNet on DEAP
+1)number_class:2
+2)random_seed:2021
+3)learning_rate:0.001
+4)pool:16
+5)num_epochs:200
+6)batch_size:64
+7)dropout:0.5
+8)hidden_node:32
+9)input_shape:(1, 32, 512)
+10)class:V
+11)T:64
+12)graph-type:gen
+
+2023-06-07 14:31:26.370492
+Train:Parameter setting for LGGNet on DEAP
+1)number_class:2
+2)random_seed:2021
+3)learning_rate:0.001
+4)pool:16
+5)num_epochs:200
+6)batch_size:64
+7)dropout:0.5
+8)hidden_node:32
+9)input_shape:(1, 32, 512)
+10)class:V
+11)T:64
+12)graph-type:gen
+0.54,0.5504885993485342
+0.5716666666666667,0.6474622770919068
+0.5566666666666666,0.6346153846153845
+
+2023-06-07 14:32:54.162627
+Train:Parameter setting for LGGNet on DEAP
+1)number_class:2
+2)random_seed:2021
+3)learning_rate:0.001
+4)pool:16
+5)num_epochs:200
+6)batch_size:64
+7)dropout:0.5
+8)hidden_node:32
+9)input_shape:(1, 32, 512)
+10)class:V
+11)T:64
+12)graph-type:gen
+
+2023-06-07 15:29:44.623434
+Train:Parameter setting for LGGNet on DEAP
+1)number_class:2
+2)random_seed:2021
+3)learning_rate:0.001
+4)pool:16
+5)num_epochs:200
+6)batch_size:64
+7)dropout:0.5
+8)hidden_node:32
+9)input_shape:(1, 32, 512)
+10)class:V
+11)T:64
+12)graph-type:gen
+
+2023-06-07 15:31:54.720534
+Train:Parameter setting for LGGNet on DEAP
+1)number_class:2
+2)random_seed:2021
+3)learning_rate:0.001
+4)pool:16
+5)num_epochs:200
+6)batch_size:64
+7)dropout:0.5
+8)hidden_node:32
+9)input_shape:(1, 32, 512)
+10)class:V
+11)T:64
+12)graph-type:gen
+0.54,0.5504885993485342
+0.5716666666666667,0.6474622770919068
+0.5566666666666666,0.6346153846153845
+0.5883333333333334,0.5030181086519114
+0.6183333333333333,0.7162329615861215
+0.7133333333333334,0.831041257367387
+0.635,0.767268862911796
+0.5016666666666667,0.5864453665283541
+
+2023-06-07 16:22:45.623158
+Train:Parameter setting for LGGNet on DEAP
+1)number_class:2
+2)random_seed:2021
+3)learning_rate:0.001
+4)pool:16
+5)num_epochs:200
+6)batch_size:64
+7)dropout:0.5
+8)hidden_node:32
+9)input_shape:(1, 32, 512)
+10)class:V
+11)T:64
+12)graph-type:gen
+
+2023-06-09 10:18:58.471096
+Train:Parameter setting for LGGNet on DEAP
+1)number_class:2
+2)random_seed:2021
+3)learning_rate:0.001
+4)pool:16
+5)num_epochs:10
+6)batch_size:64
+7)dropout:0.5
+8)hidden_node:32
+9)input_shape:(1, 32, 512)
+10)class:V
+11)T:64
+12)graph-type:gen
+
+2023-06-09 10:52:20.282473
+Train:Parameter setting for LGGNet on DEAP
+1)number_class:2
+2)random_seed:2021
+3)learning_rate:0.001
+4)pool:16
+5)num_epochs:10
+6)batch_size:64
+7)dropout:0.5
+8)hidden_node:32
+9)input_shape:(1, 32, 512)
+10)class:V
+11)T:64
+12)graph-type:gen
+0.505,0.5409582689335394
+0.5716666666666667,0.6474622770919068
+0.5566666666666666,0.6346153846153845
+0.5883333333333334,0.5030181086519114
+0.6183333333333333,0.7162329615861215
+0.7133333333333334,0.831041257367387
+0.635,0.767268862911796
+0.5016666666666667,0.5864453665283541
+0.66,0.6761904761904762
+0.715,0.7182866556836902
+0.49666666666666665,0.6138107416879796
+0.5866666666666667,0.6342182890855457
+0.6716666666666666,0.614481409001957
+0.6166666666666667,0.6290322580645162
+0.6816666666666666,0.6944000000000001
+0.6333333333333333,0.4786729857819905
+0.5033333333333333,0.595108695652174
+0.6616666666666666,0.7304116865869854
+0.5666666666666667,0.6551724137931034
+0.6366666666666667,0.6955307262569833
+0.4683333333333333,0.5449358059914408
+0.6316666666666667,0.6032315978456013
+0.6316666666666667,0.7525195968645015
+0.4,0.3771626297577855
+0.47,0.4854368932038835
+0.6516666666666666,0.7654320987654322
+0.715,0.8321884200196271
+0.5883333333333334,0.7048984468339307
+0.5566666666666666,0.6527415143603134
+0.615,0.7508090614886732
+0.5416666666666666,0.6566791510611735
+0.5166666666666667,0.5454545454545455
+test mAcc=0.5908333333333333 mF1=0.6448077683474598 val mAcc=0.0 val F1=0.0
+
+2023-06-09 11:10:57.789832
+Train:Parameter setting for LGGNet on DEAP
+1)number_class:2
+2)random_seed:2021
+3)learning_rate:0.001
+4)pool:16
+5)num_epochs:1
+6)batch_size:64
+7)dropout:0.5
+8)hidden_node:32
+9)input_shape:(1, 32, 512)
+10)class:V
+11)T:64
+12)graph-type:gen
+0.505,0.5409582689335394
+0.5716666666666667,0.6474622770919068
+0.5566666666666666,0.6346153846153845
+0.5883333333333334,0.5030181086519114
+0.6183333333333333,0.7162329615861215
+0.7133333333333334,0.831041257367387
+0.635,0.767268862911796
+0.5016666666666667,0.5864453665283541
+0.66,0.6761904761904762
+0.715,0.7182866556836902
+0.49666666666666665,0.6138107416879796
+0.5866666666666667,0.6342182890855457
+0.6716666666666666,0.614481409001957
+0.6166666666666667,0.6290322580645162
+0.6816666666666666,0.6944000000000001
+0.6333333333333333,0.4786729857819905
+0.5033333333333333,0.595108695652174
+0.6616666666666666,0.7304116865869854
+0.5666666666666667,0.6551724137931034
+0.6366666666666667,0.6955307262569833
+0.4683333333333333,0.5449358059914408
+0.6316666666666667,0.6032315978456013
+0.6316666666666667,0.7525195968645015
+0.4,0.3771626297577855
+0.47,0.4854368932038835
+0.6516666666666666,0.7654320987654322
+0.715,0.8321884200196271
+0.5883333333333334,0.7048984468339307
+0.5566666666666666,0.6527415143603134
+0.615,0.7508090614886732
+0.5416666666666666,0.6566791510611735
+0.5166666666666667,0.5454545454545455
+test mAcc=0.5908333333333333 mF1=0.6448077683474598 val mAcc=0.0 val F1=0.0
+
+2023-06-09 12:05:00.609383
+Train:Parameter setting for LGGNet on DEAP
+1)number_class:2
+2)random_seed:2021
+3)learning_rate:0.001
+4)pool:16
+5)num_epochs:200
+6)batch_size:64
+7)dropout:0.5
+8)hidden_node:32
+9)input_shape:(1, 32, 512)
+10)class:V
+11)T:64
+12)graph-type:gen
+0.505,0.5409582689335394
+0.5716666666666667,0.6474622770919068
+0.5566666666666666,0.6346153846153845
+0.5883333333333334,0.5030181086519114
+0.6183333333333333,0.7162329615861215
+0.7133333333333334,0.831041257367387
+0.635,0.767268862911796
+0.5016666666666667,0.5864453665283541
+0.66,0.6761904761904762
+0.715,0.7182866556836902
+0.49666666666666665,0.6138107416879796
+0.5866666666666667,0.6342182890855457
+0.6716666666666666,0.614481409001957
+0.6166666666666667,0.6290322580645162
+0.6816666666666666,0.6944000000000001
+0.6333333333333333,0.4786729857819905
+0.5033333333333333,0.595108695652174
+0.6616666666666666,0.7304116865869854
+0.5666666666666667,0.6551724137931034
+0.6366666666666667,0.6955307262569833
+0.4683333333333333,0.5449358059914408
+0.6316666666666667,0.6032315978456013
+0.6316666666666667,0.7525195968645015
+0.4,0.3771626297577855
+0.47,0.4854368932038835
+0.6516666666666666,0.7654320987654322
+0.715,0.8321884200196271
+0.5883333333333334,0.7048984468339307
+0.5566666666666666,0.6527415143603134
+0.615,0.7508090614886732
+0.5416666666666666,0.6566791510611735
+0.5166666666666667,0.5454545454545455
+test mAcc=0.5908333333333333 mF1=0.6448077683474598 val mAcc=0.0 val F1=0.0
+
+2023-06-13 10:12:09.520563
+Train:Parameter setting for LGGNet on DEAP
+1)number_class:2
+2)random_seed:2021
+3)learning_rate:0.001
+4)pool:16
+5)num_epochs:200
+6)batch_size:64
+7)dropout:0.5
+8)hidden_node:32
+9)input_shape:(1, 32, 512)
+10)class:V
+11)T:64
+12)graph-type:gen
+0.505,0.5409582689335394
+
+2023-06-13 10:24:15.111760
+Train:Parameter setting for LGGNet on DEAP
+1)number_class:2
+2)random_seed:2021
+3)learning_rate:0.001
+4)pool:16
+5)num_epochs:200
+6)batch_size:64
+7)dropout:0.5
+8)hidden_node:32
+9)input_shape:(1, 32, 512)
+10)class:V
+11)T:64
+12)graph-type:gen
+
+2023-06-13 10:30:38.005966
+Train:Parameter setting for LGGNet on DEAP
+1)number_class:2
+2)random_seed:2021
+3)learning_rate:0.001
+4)pool:16
+5)num_epochs:200
+6)batch_size:64
+7)dropout:0.5
+8)hidden_node:32
+9)input_shape:(1, 32, 512)
+10)class:V
+11)T:64
+12)graph-type:gen
+
+2023-06-13 10:54:40.692655
+Train:Parameter setting for LGGNet on DEAP
+1)number_class:2
+2)random_seed:2021
+3)learning_rate:0.001
+4)pool:16
+5)num_epochs:200
+6)batch_size:64
+7)dropout:0.5
+8)hidden_node:32
+9)input_shape:(1, 32, 512)
+10)class:V
+11)T:64
+12)graph-type:gen
+
+2023-06-13 10:55:35.664941
+Train:Parameter setting for LGGNet on DEAP
+1)number_class:2
+2)random_seed:2021
+3)learning_rate:0.001
+4)pool:16
+5)num_epochs:200
+6)batch_size:64
+7)dropout:0.5
+8)hidden_node:32
+9)input_shape:(1, 32, 512)
+10)class:V
+11)T:64
+12)graph-type:gen
+
+2023-06-13 11:09:34.601954
+Train:Parameter setting for LGGNet on DEAP
+1)number_class:2
+2)random_seed:2021
+3)learning_rate:0.001
+4)pool:16
+5)num_epochs:200
+6)batch_size:64
+7)dropout:0.5
+8)hidden_node:32
+9)input_shape:(1, 32, 512)
+10)class:V
+11)T:64
+12)graph-type:gen
+
+2023-06-13 11:09:49.973688
+Train:Parameter setting for LGGNet on DEAP
+1)number_class:2
+2)random_seed:2021
+3)learning_rate:0.001
+4)pool:16
+5)num_epochs:200
+6)batch_size:64
+7)dropout:0.5
+8)hidden_node:32
+9)input_shape:(1, 32, 512)
+10)class:V
+11)T:64
+12)graph-type:gen
+
+2023-06-13 11:50:44.516459
+Train:Parameter setting for LGGNet on DEAP
+1)number_class:2
+2)random_seed:2021
+3)learning_rate:0.001
+4)pool:16
+5)num_epochs:200
+6)batch_size:64
+7)dropout:0.5
+8)hidden_node:32
+9)input_shape:(1, 32, 512)
+10)class:V
+11)T:64
+12)graph-type:gen
+
+2023-06-13 11:57:04.174866
+Train:Parameter setting for LGGNet on DEAP
+1)number_class:2
+2)random_seed:2021
+3)learning_rate:0.001
+4)pool:16
+5)num_epochs:200
+6)batch_size:64
+7)dropout:0.5
+8)hidden_node:32
+9)input_shape:(1, 32, 512)
+10)class:V
+11)T:64
+12)graph-type:gen
+0.505,0.5409582689335394
+0.5716666666666667,0.6474622770919068
+0.5566666666666666,0.6346153846153845
+0.5883333333333334,0.5030181086519114
+0.6183333333333333,0.7162329615861215
+0.7133333333333334,0.831041257367387
+0.635,0.767268862911796
+0.5016666666666667,0.5864453665283541
+0.66,0.6761904761904762
+0.715,0.7182866556836902
+
+2023-06-13 12:03:32.457176
+Train:Parameter setting for LGGNet on DEAP
+1)number_class:2
+2)random_seed:2021
+3)learning_rate:0.001
+4)pool:16
+5)num_epochs:200
+6)batch_size:64
+7)dropout:0.5
+8)hidden_node:32
+9)input_shape:(1, 32, 512)
+10)class:V
+11)T:64
+12)graph-type:gen
+
+2023-06-13 12:23:15.702063
+Train:Parameter setting for LGGNet on DEAP
+1)number_class:2
+2)random_seed:2021
+3)learning_rate:0.001
+4)pool:16
+5)num_epochs:200
+6)batch_size:64
+7)dropout:0.5
+8)hidden_node:32
+9)input_shape:(1, 32, 512)
+10)class:V
+11)T:64
+12)graph-type:gen
+
+2023-06-13 12:26:02.679220
+Train:Parameter setting for LGGNet on DEAP
+1)number_class:2
+2)random_seed:2021
+3)learning_rate:0.001
+4)pool:16
+5)num_epochs:200
+6)batch_size:64
+7)dropout:0.5
+8)hidden_node:32
+9)input_shape:(1, 32, 512)
+10)class:V
+11)T:64
+12)graph-type:gen
+
+2023-06-13 12:39:13.716422
+Train:Parameter setting for LGGNet on DEAP
+1)number_class:2
+2)random_seed:2021
+3)learning_rate:0.001
+4)pool:16
+5)num_epochs:200
+6)batch_size:64
+7)dropout:0.5
+8)hidden_node:32
+9)input_shape:(1, 32, 512)
+10)class:V
+11)T:64
+12)graph-type:gen
+
+2023-06-13 12:39:55.915752
+Train:Parameter setting for LGGNet on DEAP
+1)number_class:2
+2)random_seed:2021
+3)learning_rate:0.001
+4)pool:16
+5)num_epochs:200
+6)batch_size:64
+7)dropout:0.5
+8)hidden_node:32
+9)input_shape:(1, 32, 512)
+10)class:V
+11)T:64
+12)graph-type:gen
+
+2023-06-13 12:40:17.676509
+Train:Parameter setting for LGGNet on DEAP
+1)number_class:2
+2)random_seed:2021
+3)learning_rate:0.001
+4)pool:16
+5)num_epochs:200
+6)batch_size:64
+7)dropout:0.5
+8)hidden_node:32
+9)input_shape:(1, 32, 512)
+10)class:V
+11)T:64
+12)graph-type:gen
+
+2023-06-13 12:40:35.404320
+Train:Parameter setting for LGGNet on DEAP
+1)number_class:2
+2)random_seed:2021
+3)learning_rate:0.001
+4)pool:16
+5)num_epochs:200
+6)batch_size:64
+7)dropout:0.5
+8)hidden_node:32
+9)input_shape:(1, 32, 512)
+10)class:V
+11)T:64
+12)graph-type:gen
+
+2023-06-13 12:47:06.533254
+Train:Parameter setting for LGGNet on DEAP
+1)number_class:2
+2)random_seed:2021
+3)learning_rate:0.001
+4)pool:16
+5)num_epochs:200
+6)batch_size:64
+7)dropout:0.5
+8)hidden_node:32
+9)input_shape:(1, 32, 512)
+10)class:V
+11)T:64
+12)graph-type:gen
+
+2023-06-13 14:30:06.980516
+Train:Parameter setting for LGGNet on DEAP
+1)number_class:2
+2)random_seed:2021
+3)learning_rate:0.001
+4)pool:16
+5)num_epochs:200
+6)batch_size:64
+7)dropout:0.5
+8)hidden_node:32
+9)input_shape:(1, 32, 512)
+10)class:V
+11)T:64
+12)graph-type:gen
+
+2023-06-13 14:30:43.647029
+Train:Parameter setting for LGGNet on DEAP
+1)number_class:2
+2)random_seed:2021
+3)learning_rate:0.001
+4)pool:16
+5)num_epochs:200
+6)batch_size:64
+7)dropout:0.5
+8)hidden_node:32
+9)input_shape:(1, 32, 512)
+10)class:V
+11)T:64
+12)graph-type:gen
+
+2023-06-13 14:31:37.958695
+Train:Parameter setting for LGGNet on DEAP
+1)number_class:2
+2)random_seed:2021
+3)learning_rate:0.001
+4)pool:16
+5)num_epochs:200
+6)batch_size:64
+7)dropout:0.5
+8)hidden_node:32
+9)input_shape:(1, 32, 512)
+10)class:V
+11)T:64
+12)graph-type:gen
+
+2023-06-13 14:31:59.649489
+Train:Parameter setting for LGGNet on DEAP
+1)number_class:2
+2)random_seed:2021
+3)learning_rate:0.001
+4)pool:16
+5)num_epochs:200
+6)batch_size:64
+7)dropout:0.5
+8)hidden_node:32
+9)input_shape:(1, 32, 512)
+10)class:V
+11)T:64
+12)graph-type:gen
+
+2023-06-13 14:43:20.879443
+Train:Parameter setting for LGGNet on DEAP
+1)number_class:2
+2)random_seed:2021
+3)learning_rate:0.001
+4)pool:16
+5)num_epochs:200
+6)batch_size:64
+7)dropout:0.5
+8)hidden_node:32
+9)input_shape:(1, 32, 512)
+10)class:V
+11)T:64
+12)graph-type:gen
+
+2023-06-13 14:43:43.708451
+Train:Parameter setting for LGGNet on DEAP
+1)number_class:2
+2)random_seed:2021
+3)learning_rate:0.001
+4)pool:16
+5)num_epochs:200
+6)batch_size:64
+7)dropout:0.5
+8)hidden_node:32
+9)input_shape:(1, 32, 512)
+10)class:V
+11)T:64
+12)graph-type:gen
+
+2023-06-13 14:53:14.392023
+Train:Parameter setting for LGGNet on DEAP
+1)number_class:2
+2)random_seed:2021
+3)learning_rate:0.001
+4)pool:16
+5)num_epochs:200
+6)batch_size:64
+7)dropout:0.5
+8)hidden_node:32
+9)input_shape:(1, 32, 512)
+10)class:V
+11)T:64
+12)graph-type:gen
+
+2023-06-13 14:53:35.354711
+Train:Parameter setting for LGGNet on DEAP
+1)number_class:2
+2)random_seed:2021
+3)learning_rate:0.001
+4)pool:16
+5)num_epochs:200
+6)batch_size:64
+7)dropout:0.5
+8)hidden_node:32
+9)input_shape:(1, 32, 512)
+10)class:V
+11)T:64
+12)graph-type:gen
+
+2023-06-13 14:53:59.396692
+Train:Parameter setting for LGGNet on DEAP
+1)number_class:2
+2)random_seed:2021
+3)learning_rate:0.001
+4)pool:16
+5)num_epochs:200
+6)batch_size:64
+7)dropout:0.5
+8)hidden_node:32
+9)input_shape:(1, 32, 512)
+10)class:V
+11)T:64
+12)graph-type:gen
+
+2023-06-13 14:57:00.978271
+Train:Parameter setting for LGGNet on DEAP
+1)number_class:2
+2)random_seed:2021
+3)learning_rate:0.001
+4)pool:16
+5)num_epochs:200
+6)batch_size:64
+7)dropout:0.5
+8)hidden_node:32
+9)input_shape:(1, 32, 512)
+10)class:V
+11)T:64
+12)graph-type:gen
+
+2023-06-13 14:57:54.095814
+Train:Parameter setting for LGGNet on DEAP
+1)number_class:2
+2)random_seed:2021
+3)learning_rate:0.001
+4)pool:16
+5)num_epochs:200
+6)batch_size:64
+7)dropout:0.5
+8)hidden_node:32
+9)input_shape:(1, 32, 512)
+10)class:V
+11)T:64
+12)graph-type:gen
+
+2023-06-13 14:59:46.044902
+Train:Parameter setting for LGGNet on DEAP
+1)number_class:2
+2)random_seed:2021
+3)learning_rate:0.001
+4)pool:16
+5)num_epochs:200
+6)batch_size:64
+7)dropout:0.5
+8)hidden_node:32
+9)input_shape:(1, 32, 512)
+10)class:V
+11)T:64
+12)graph-type:gen
+
+2023-06-13 15:01:01.873737
+Train:Parameter setting for LGGNet on DEAP
+1)number_class:2
+2)random_seed:2021
+3)learning_rate:0.001
+4)pool:16
+5)num_epochs:200
+6)batch_size:64
+7)dropout:0.5
+8)hidden_node:32
+9)input_shape:(1, 32, 512)
+10)class:V
+11)T:64
+12)graph-type:gen
+
+2023-06-13 15:01:18.042011
+Train:Parameter setting for LGGNet on DEAP
+1)number_class:2
+2)random_seed:2021
+3)learning_rate:0.001
+4)pool:16
+5)num_epochs:200
+6)batch_size:64
+7)dropout:0.5
+8)hidden_node:32
+9)input_shape:(1, 32, 512)
+10)class:V
+11)T:64
+12)graph-type:gen
+
+2023-06-13 15:03:29.343554
+Train:Parameter setting for LGGNet on DEAP
+1)number_class:2
+2)random_seed:2021
+3)learning_rate:0.001
+4)pool:16
+5)num_epochs:200
+6)batch_size:64
+7)dropout:0.5
+8)hidden_node:32
+9)input_shape:(1, 32, 512)
+10)class:V
+11)T:64
+12)graph-type:gen
+
+2023-06-13 15:05:07.842037
+Train:Parameter setting for LGGNet on DEAP
+1)number_class:2
+2)random_seed:2021
+3)learning_rate:0.001
+4)pool:16
+5)num_epochs:200
+6)batch_size:64
+7)dropout:0.5
+8)hidden_node:32
+9)input_shape:(1, 32, 512)
+10)class:V
+11)T:64
+12)graph-type:gen
+
+2023-06-13 15:05:54.440742
+Train:Parameter setting for LGGNet on DEAP
+1)number_class:2
+2)random_seed:2021
+3)learning_rate:0.001
+4)pool:16
+5)num_epochs:200
+6)batch_size:64
+7)dropout:0.5
+8)hidden_node:32
+9)input_shape:(1, 32, 512)
+10)class:V
+11)T:64
+12)graph-type:gen
+
+2023-06-13 15:06:52.811935
+Train:Parameter setting for LGGNet on DEAP
+1)number_class:2
+2)random_seed:2021
+3)learning_rate:0.001
+4)pool:16
+5)num_epochs:200
+6)batch_size:64
+7)dropout:0.5
+8)hidden_node:32
+9)input_shape:(1, 32, 512)
+10)class:V
+11)T:64
+12)graph-type:gen
+
+2023-06-13 15:08:07.524926
+Train:Parameter setting for LGGNet on DEAP
+1)number_class:2
+2)random_seed:2021
+3)learning_rate:0.001
+4)pool:16
+5)num_epochs:200
+6)batch_size:64
+7)dropout:0.5
+8)hidden_node:32
+9)input_shape:(1, 32, 512)
+10)class:V
+11)T:64
+12)graph-type:gen
+
+2023-06-14 10:42:32.373213
+Train:Parameter setting for LGGNet on DEAP
+1)number_class:2
+2)random_seed:2021
+3)learning_rate:0.001
+4)pool:16
+5)num_epochs:200
+6)batch_size:64
+7)dropout:0.5
+8)hidden_node:32
+9)input_shape:(1, 32, 512)
+10)class:V
+11)T:64
+12)graph-type:gen
+
+2023-06-14 10:48:11.392855
+Train:Parameter setting for LGGNet on DEAP
+1)number_class:2
+2)random_seed:2021
+3)learning_rate:0.001
+4)pool:16
+5)num_epochs:200
+6)batch_size:64
+7)dropout:0.5
+8)hidden_node:32
+9)input_shape:(1, 32, 512)
+10)class:V
+11)T:64
+12)graph-type:gen
+
+2023-06-14 10:48:42.658261
+Train:Parameter setting for LGGNet on DEAP
+1)number_class:2
+2)random_seed:2021
+3)learning_rate:0.001
+4)pool:16
+5)num_epochs:200
+6)batch_size:64
+7)dropout:0.5
+8)hidden_node:32
+9)input_shape:(1, 32, 512)
+10)class:V
+11)T:64
+12)graph-type:gen
+
+2023-06-14 10:50:11.115231
+Train:Parameter setting for LGGNet on DEAP
+1)number_class:2
+2)random_seed:2021
+3)learning_rate:0.001
+4)pool:16
+5)num_epochs:200
+6)batch_size:64
+7)dropout:0.5
+8)hidden_node:32
+9)input_shape:(1, 32, 512)
+10)class:V
+11)T:64
+12)graph-type:gen
+
+2023-06-14 10:50:43.299399
+Train:Parameter setting for LGGNet on DEAP
+1)number_class:2
+2)random_seed:2021
+3)learning_rate:0.001
+4)pool:16
+5)num_epochs:200
+6)batch_size:64
+7)dropout:0.5
+8)hidden_node:32
+9)input_shape:(1, 32, 512)
+10)class:V
+11)T:64
+12)graph-type:gen
+
+2023-06-14 10:52:42.571644
+Train:Parameter setting for LGGNet on DEAP
+1)number_class:2
+2)random_seed:2021
+3)learning_rate:0.001
+4)pool:16
+5)num_epochs:200
+6)batch_size:64
+7)dropout:0.5
+8)hidden_node:32
+9)input_shape:(1, 32, 512)
+10)class:V
+11)T:64
+12)graph-type:gen
+
+2023-06-14 10:53:01.900750
+Train:Parameter setting for LGGNet on DEAP
+1)number_class:2
+2)random_seed:2021
+3)learning_rate:0.001
+4)pool:16
+5)num_epochs:200
+6)batch_size:64
+7)dropout:0.5
+8)hidden_node:32
+9)input_shape:(1, 32, 512)
+10)class:V
+11)T:64
+12)graph-type:gen
+
+2023-06-14 10:53:15.437274
+Train:Parameter setting for LGGNet on DEAP
+1)number_class:2
+2)random_seed:2021
+3)learning_rate:0.001
+4)pool:16
+5)num_epochs:200
+6)batch_size:64
+7)dropout:0.5
+8)hidden_node:32
+9)input_shape:(1, 32, 512)
+10)class:V
+11)T:64
+12)graph-type:gen
+
+2023-06-14 10:53:53.796562
+Train:Parameter setting for LGGNet on DEAP
+1)number_class:2
+2)random_seed:2021
+3)learning_rate:0.001
+4)pool:16
+5)num_epochs:200
+6)batch_size:64
+7)dropout:0.5
+8)hidden_node:32
+9)input_shape:(1, 32, 512)
+10)class:V
+11)T:64
+12)graph-type:gen
+
+2023-06-14 10:56:26.035083
+Train:Parameter setting for LGGNet on DEAP
+1)number_class:2
+2)random_seed:2021
+3)learning_rate:0.001
+4)pool:16
+5)num_epochs:200
+6)batch_size:64
+7)dropout:0.5
+8)hidden_node:32
+9)input_shape:(1, 32, 512)
+10)class:V
+11)T:64
+12)graph-type:gen
+
+2023-06-14 10:56:50.631574
+Train:Parameter setting for LGGNet on DEAP
+1)number_class:2
+2)random_seed:2021
+3)learning_rate:0.001
+4)pool:16
+5)num_epochs:200
+6)batch_size:64
+7)dropout:0.5
+8)hidden_node:32
+9)input_shape:(1, 32, 512)
+10)class:V
+11)T:64
+12)graph-type:gen
+
+2023-06-14 10:58:13.177527
+Train:Parameter setting for LGGNet on DEAP
+1)number_class:2
+2)random_seed:2021
+3)learning_rate:0.001
+4)pool:16
+5)num_epochs:200
+6)batch_size:64
+7)dropout:0.5
+8)hidden_node:32
+9)input_shape:(1, 32, 512)
+10)class:V
+11)T:64
+12)graph-type:gen
+
+2023-06-14 10:58:30.702332
+Train:Parameter setting for LGGNet on DEAP
+1)number_class:2
+2)random_seed:2021
+3)learning_rate:0.001
+4)pool:16
+5)num_epochs:200
+6)batch_size:64
+7)dropout:0.5
+8)hidden_node:32
+9)input_shape:(1, 32, 512)
+10)class:V
+11)T:64
+12)graph-type:gen
+
+2023-06-14 10:58:45.593429
+Train:Parameter setting for LGGNet on DEAP
+1)number_class:2
+2)random_seed:2021
+3)learning_rate:0.001
+4)pool:16
+5)num_epochs:200
+6)batch_size:64
+7)dropout:0.5
+8)hidden_node:32
+9)input_shape:(1, 32, 512)
+10)class:V
+11)T:64
+12)graph-type:gen
+
+2023-06-14 11:12:11.009117
+Train:Parameter setting for LGGNet on DEAP
+1)number_class:2
+2)random_seed:2021
+3)learning_rate:0.001
+4)pool:16
+5)num_epochs:200
+6)batch_size:64
+7)dropout:0.5
+8)hidden_node:32
+9)input_shape:(1, 32, 512)
+10)class:V
+11)T:64
+12)graph-type:gen
+
+2023-06-14 11:12:44.255919
+Train:Parameter setting for LGGNet on DEAP
+1)number_class:2
+2)random_seed:2021
+3)learning_rate:0.001
+4)pool:16
+5)num_epochs:200
+6)batch_size:64
+7)dropout:0.5
+8)hidden_node:32
+9)input_shape:(1, 32, 512)
+10)class:V
+11)T:64
+12)graph-type:gen
+
+2023-06-14 11:14:27.071162
+Train:Parameter setting for LGGNet on DEAP
+1)number_class:2
+2)random_seed:2021
+3)learning_rate:0.001
+4)pool:16
+5)num_epochs:200
+6)batch_size:64
+7)dropout:0.5
+8)hidden_node:32
+9)input_shape:(1, 32, 512)
+10)class:V
+11)T:64
+12)graph-type:gen
+
+2023-06-14 11:16:57.087490
+Train:Parameter setting for LGGNet on DEAP
+1)number_class:2
+2)random_seed:2021
+3)learning_rate:0.001
+4)pool:16
+5)num_epochs:200
+6)batch_size:64
+7)dropout:0.5
+8)hidden_node:32
+9)input_shape:(1, 32, 512)
+10)class:V
+11)T:64
+12)graph-type:gen
+
+2023-06-14 11:17:18.346517
+Train:Parameter setting for LGGNet on DEAP
+1)number_class:2
+2)random_seed:2021
+3)learning_rate:0.001
+4)pool:16
+5)num_epochs:200
+6)batch_size:64
+7)dropout:0.5
+8)hidden_node:32
+9)input_shape:(1, 32, 512)
+10)class:V
+11)T:64
+12)graph-type:gen
+
+2023-06-14 12:45:01.213310
+Train:Parameter setting for LGGNet on DEAP
+1)number_class:2
+2)random_seed:2021
+3)learning_rate:0.001
+4)pool:16
+5)num_epochs:200
+6)batch_size:64
+7)dropout:0.5
+8)hidden_node:32
+9)input_shape:(1, 32, 512)
+10)class:V
+11)T:64
+12)graph-type:gen
+
+2023-06-14 13:53:52.422769
+Train:Parameter setting for LGGNet on DEAP
+1)number_class:2
+2)random_seed:2021
+3)learning_rate:0.001
+4)pool:16
+5)num_epochs:200
+6)batch_size:64
+7)dropout:0.5
+8)hidden_node:32
+9)input_shape:(1, 32, 512)
+10)class:V
+11)T:64
+12)graph-type:gen
+
+2023-06-14 13:59:23.094347
+Train:Parameter setting for LGGNet on DEAP
+1)number_class:2
+2)random_seed:2021
+3)learning_rate:0.001
+4)pool:16
+5)num_epochs:200
+6)batch_size:64
+7)dropout:0.5
+8)hidden_node:32
+9)input_shape:(1, 32, 512)
+10)class:V
+11)T:64
+12)graph-type:gen
+
+2023-06-14 13:59:54.536413
+Train:Parameter setting for LGGNet on DEAP
+1)number_class:2
+2)random_seed:2021
+3)learning_rate:0.001
+4)pool:16
+5)num_epochs:200
+6)batch_size:64
+7)dropout:0.5
+8)hidden_node:32
+9)input_shape:(1, 32, 512)
+10)class:V
+11)T:64
+12)graph-type:gen
+
+2023-06-14 14:00:29.858118
+Train:Parameter setting for LGGNet on DEAP
+1)number_class:2
+2)random_seed:2021
+3)learning_rate:0.001
+4)pool:16
+5)num_epochs:200
+6)batch_size:64
+7)dropout:0.5
+8)hidden_node:32
+9)input_shape:(1, 32, 512)
+10)class:V
+11)T:64
+12)graph-type:gen
+
+2023-06-15 11:25:55.979752
+Train:Parameter setting for LGGNet on DEAP
+1)number_class:2
+2)random_seed:2021
+3)learning_rate:0.001
+4)pool:16
+5)num_epochs:200
+6)batch_size:64
+7)dropout:0.5
+8)hidden_node:32
+9)input_shape:(1, 32, 512)
+10)class:V
+11)T:64
+12)graph-type:gen
+
+2023-06-15 11:26:32.739280
+Train:Parameter setting for LGGNet on DEAP
+1)number_class:2
+2)random_seed:2021
+3)learning_rate:0.001
+4)pool:16
+5)num_epochs:200
+6)batch_size:64
+7)dropout:0.5
+8)hidden_node:32
+9)input_shape:(1, 32, 512)
+10)class:V
+11)T:64
+12)graph-type:gen
+
+2023-06-15 11:27:55.064806
+Train:Parameter setting for LGGNet on DEAP
+1)number_class:2
+2)random_seed:2021
+3)learning_rate:0.001
+4)pool:16
+5)num_epochs:200
+6)batch_size:64
+7)dropout:0.5
+8)hidden_node:32
+9)input_shape:(1, 32, 512)
+10)class:V
+11)T:64
+12)graph-type:gen
+
+2023-06-15 11:28:52.430832
+Train:Parameter setting for LGGNet on DEAP
+1)number_class:2
+2)random_seed:2021
+3)learning_rate:0.001
+4)pool:16
+5)num_epochs:200
+6)batch_size:64
+7)dropout:0.5
+8)hidden_node:32
+9)input_shape:(1, 32, 512)
+10)class:V
+11)T:64
+12)graph-type:gen
+
+2023-06-15 11:29:19.968476
+Train:Parameter setting for LGGNet on DEAP
+1)number_class:2
+2)random_seed:2021
+3)learning_rate:0.001
+4)pool:16
+5)num_epochs:200
+6)batch_size:64
+7)dropout:0.5
+8)hidden_node:32
+9)input_shape:(1, 32, 512)
+10)class:V
+11)T:64
+12)graph-type:gen
+
+2023-06-15 11:35:39.741425
+Train:Parameter setting for LGGNet on DEAP
+1)number_class:2
+2)random_seed:2021
+3)learning_rate:0.001
+4)pool:16
+5)num_epochs:200
+6)batch_size:64
+7)dropout:0.5
+8)hidden_node:32
+9)input_shape:(1, 32, 512)
+10)class:V
+11)T:64
+12)graph-type:gen
+
+2023-06-15 12:19:49.551962
+Train:Parameter setting for LGGNet on DEAP
+1)number_class:2
+2)random_seed:2021
+3)learning_rate:0.001
+4)pool:16
+5)num_epochs:200
+6)batch_size:64
+7)dropout:0.5
+8)hidden_node:32
+9)input_shape:(1, 32, 512)
+10)class:V
+11)T:64
+12)graph-type:gen
+
+2023-06-15 12:20:12.106926
+Train:Parameter setting for LGGNet on DEAP
+1)number_class:2
+2)random_seed:2021
+3)learning_rate:0.001
+4)pool:16
+5)num_epochs:200
+6)batch_size:64
+7)dropout:0.5
+8)hidden_node:32
+9)input_shape:(1, 32, 512)
+10)class:V
+11)T:64
+12)graph-type:gen
+
+2023-06-15 12:26:23.719040
+Train:Parameter setting for LGGNet on DEAP
+1)number_class:2
+2)random_seed:2021
+3)learning_rate:0.001
+4)pool:16
+5)num_epochs:200
+6)batch_size:64
+7)dropout:0.5
+8)hidden_node:32
+9)input_shape:(1, 32, 512)
+10)class:V
+11)T:64
+12)graph-type:gen
+
+2023-06-15 12:30:32.039402
+Train:Parameter setting for LGGNet on DEAP
+1)number_class:2
+2)random_seed:2021
+3)learning_rate:0.001
+4)pool:16
+5)num_epochs:200
+6)batch_size:64
+7)dropout:0.5
+8)hidden_node:32
+9)input_shape:(1, 32, 512)
+10)class:V
+11)T:64
+12)graph-type:gen
+
+2023-06-15 12:31:55.422859
+Train:Parameter setting for LGGNet on DEAP
+1)number_class:2
+2)random_seed:2021
+3)learning_rate:0.001
+4)pool:16
+5)num_epochs:200
+6)batch_size:64
+7)dropout:0.5
+8)hidden_node:32
+9)input_shape:(1, 32, 512)
+10)class:V
+11)T:64
+12)graph-type:gen
+
+2023-06-16 10:55:32.599066
+Train:Parameter setting for LGGNet on DEAP
+1)number_class:2
+2)random_seed:2021
+3)learning_rate:0.001
+4)pool:16
+5)num_epochs:200
+6)batch_size:64
+7)dropout:0.5
+8)hidden_node:32
+9)input_shape:(1, 32, 512)
+10)class:V
+11)T:64
+12)graph-type:gen
+
+2023-06-16 10:57:26.623480
+Train:Parameter setting for LGGNet on DEAP
+1)number_class:2
+2)random_seed:2021
+3)learning_rate:0.001
+4)pool:16
+5)num_epochs:200
+6)batch_size:64
+7)dropout:0.5
+8)hidden_node:32
+9)input_shape:(1, 32, 512)
+10)class:V
+11)T:64
+12)graph-type:gen
+
+2023-06-16 10:58:00.810910
+Train:Parameter setting for LGGNet on DEAP
+1)number_class:2
+2)random_seed:2021
+3)learning_rate:0.001
+4)pool:16
+5)num_epochs:200
+6)batch_size:64
+7)dropout:0.5
+8)hidden_node:32
+9)input_shape:(1, 32, 512)
+10)class:V
+11)T:64
+12)graph-type:gen
+
+2023-06-16 10:58:19.481073
+Train:Parameter setting for LGGNet on DEAP
+1)number_class:2
+2)random_seed:2021
+3)learning_rate:0.001
+4)pool:16
+5)num_epochs:200
+6)batch_size:64
+7)dropout:0.5
+8)hidden_node:32
+9)input_shape:(1, 32, 512)
+10)class:V
+11)T:64
+12)graph-type:gen
+
+2023-06-16 10:58:39.919046
+Train:Parameter setting for LGGNet on DEAP
+1)number_class:2
+2)random_seed:2021
+3)learning_rate:0.001
+4)pool:16
+5)num_epochs:200
+6)batch_size:64
+7)dropout:0.5
+8)hidden_node:32
+9)input_shape:(1, 32, 512)
+10)class:V
+11)T:64
+12)graph-type:gen
+
+2023-06-16 10:59:06.027086
+Train:Parameter setting for LGGNet on DEAP
+1)number_class:2
+2)random_seed:2021
+3)learning_rate:0.001
+4)pool:16
+5)num_epochs:200
+6)batch_size:64
+7)dropout:0.5
+8)hidden_node:32
+9)input_shape:(1, 32, 512)
+10)class:V
+11)T:64
+12)graph-type:gen
+
+2023-06-16 11:01:41.009192
+Train:Parameter setting for LGGNet on DEAP
+1)number_class:2
+2)random_seed:2021
+3)learning_rate:0.001
+4)pool:16
+5)num_epochs:200
+6)batch_size:64
+7)dropout:0.5
+8)hidden_node:32
+9)input_shape:(1, 32, 512)
+10)class:V
+11)T:64
+12)graph-type:gen
+
+2023-06-16 11:01:57.170417
+Train:Parameter setting for LGGNet on DEAP
+1)number_class:2
+2)random_seed:2021
+3)learning_rate:0.001
+4)pool:16
+5)num_epochs:200
+6)batch_size:64
+7)dropout:0.5
+8)hidden_node:32
+9)input_shape:(1, 32, 512)
+10)class:V
+11)T:64
+12)graph-type:gen
+
+2023-06-16 11:02:25.845207
+Train:Parameter setting for LGGNet on DEAP
+1)number_class:2
+2)random_seed:2021
+3)learning_rate:0.001
+4)pool:16
+5)num_epochs:200
+6)batch_size:64
+7)dropout:0.5
+8)hidden_node:32
+9)input_shape:(1, 32, 512)
+10)class:V
+11)T:64
+12)graph-type:gen
+
+2023-06-16 11:02:42.029384
+Train:Parameter setting for LGGNet on DEAP
+1)number_class:2
+2)random_seed:2021
+3)learning_rate:0.001
+4)pool:16
+5)num_epochs:200
+6)batch_size:64
+7)dropout:0.5
+8)hidden_node:32
+9)input_shape:(1, 32, 512)
+10)class:V
+11)T:64
+12)graph-type:gen
+
+2023-06-16 11:02:57.653829
+Train:Parameter setting for LGGNet on DEAP
+1)number_class:2
+2)random_seed:2021
+3)learning_rate:0.001
+4)pool:16
+5)num_epochs:200
+6)batch_size:64
+7)dropout:0.5
+8)hidden_node:32
+9)input_shape:(1, 32, 512)
+10)class:V
+11)T:64
+12)graph-type:gen
+
+2023-06-16 11:03:24.028810
+Train:Parameter setting for LGGNet on DEAP
+1)number_class:2
+2)random_seed:2021
+3)learning_rate:0.001
+4)pool:16
+5)num_epochs:200
+6)batch_size:64
+7)dropout:0.5
+8)hidden_node:32
+9)input_shape:(1, 32, 512)
+10)class:V
+11)T:64
+12)graph-type:gen
+
+2023-06-16 14:19:52.429993
+Train:Parameter setting for LGGNet on DEAP
+1)number_class:2
+2)random_seed:2021
+3)learning_rate:0.001
+4)pool:16
+5)num_epochs:200
+6)batch_size:64
+7)dropout:0.5
+8)hidden_node:32
+9)input_shape:(1, 32, 512)
+10)class:V
+11)T:64
+12)graph-type:gen
+
+2023-06-16 14:20:25.214453
+Train:Parameter setting for LGGNet on DEAP
+1)number_class:2
+2)random_seed:2021
+3)learning_rate:0.001
+4)pool:16
+5)num_epochs:200
+6)batch_size:64
+7)dropout:0.5
+8)hidden_node:32
+9)input_shape:(1, 32, 512)
+10)class:V
+11)T:64
+12)graph-type:gen
+
+2023-06-19 11:34:21.411873
+Train:Parameter setting for LGGNet on DEAP
+1)number_class:2
+2)random_seed:2021
+3)learning_rate:0.001
+4)pool:16
+5)num_epochs:200
+6)batch_size:64
+7)dropout:0.5
+8)hidden_node:32
+9)input_shape:(1, 32, 512)
+10)class:V
+11)T:64
+12)graph-type:gen
+
+2023-06-19 12:16:07.151890
+Train:Parameter setting for LGGNet on DEAP
+1)number_class:2
+2)random_seed:2021
+3)learning_rate:0.001
+4)pool:16
+5)num_epochs:200
+6)batch_size:64
+7)dropout:0.5
+8)hidden_node:32
+9)input_shape:(1, 32, 512)
+10)class:V
+11)T:64
+12)graph-type:gen
+
+2023-06-19 12:17:34.710942
+Train:Parameter setting for LGGNet on DEAP
+1)number_class:2
+2)random_seed:2021
+3)learning_rate:0.001
+4)pool:16
+5)num_epochs:200
+6)batch_size:64
+7)dropout:0.5
+8)hidden_node:32
+9)input_shape:(1, 32, 512)
+10)class:V
+11)T:64
+12)graph-type:gen
+
+2023-06-19 12:18:20.816973
+Train:Parameter setting for LGGNet on DEAP
+1)number_class:2
+2)random_seed:2021
+3)learning_rate:0.001
+4)pool:16
+5)num_epochs:200
+6)batch_size:64
+7)dropout:0.5
+8)hidden_node:32
+9)input_shape:(1, 32, 512)
+10)class:V
+11)T:64
+12)graph-type:gen
+0.505,0.5409582689335394
+
+2023-06-19 12:25:07.157857
+Train:Parameter setting for LGGNet on DEAP
+1)number_class:2
+2)random_seed:2021
+3)learning_rate:0.001
+4)pool:16
+5)num_epochs:200
+6)batch_size:64
+7)dropout:0.5
+8)hidden_node:32
+9)input_shape:(1, 32, 512)
+10)class:V
+11)T:64
+12)graph-type:gen
+
+2023-06-19 12:44:50.854301
+Train:Parameter setting for LGGNet on DEAP
+1)number_class:2
+2)random_seed:2021
+3)learning_rate:0.001
+4)pool:16
+5)num_epochs:200
+6)batch_size:64
+7)dropout:0.5
+8)hidden_node:32
+9)input_shape:(1, 32, 512)
+10)class:V
+11)T:64
+12)graph-type:gen
+0.505,0.5409582689335394
+
+2023-06-21 15:09:39.444401
+Train:Parameter setting for LGGNet on DEAP
+1)number_class:2
+2)random_seed:2021
+3)learning_rate:0.001
+4)pool:16
+5)num_epochs:200
+6)batch_size:64
+7)dropout:0.5
+8)hidden_node:32
+9)input_shape:(1, 32, 512)
+10)class:V
+11)T:64
+12)graph-type:gen
+
+2023-06-21 15:11:52.424689
+Train:Parameter setting for LGGNet on DEAP
+1)number_class:2
+2)random_seed:2021
+3)learning_rate:0.001
+4)pool:16
+5)num_epochs:200
+6)batch_size:64
+7)dropout:0.5
+8)hidden_node:32
+9)input_shape:(1, 32, 512)
+10)class:V
+11)T:64
+12)graph-type:gen
+
+2023-06-21 15:21:37.246278
+Train:Parameter setting for LGGNet on DEAP
+1)number_class:2
+2)random_seed:2021
+3)learning_rate:0.001
+4)pool:16
+5)num_epochs:200
+6)batch_size:64
+7)dropout:0.5
+8)hidden_node:32
+9)input_shape:(1, 32, 512)
+10)class:V
+11)T:64
+12)graph-type:gen
+
+2023-06-21 15:52:12.948328
+Train:Parameter setting for LGGNet on DEAP
+1)number_class:4
+2)random_seed:2021
+3)learning_rate:0.001
+4)pool:16
+5)num_epochs:200
+6)batch_size:64
+7)dropout:0.5
+8)hidden_node:32
+9)input_shape:(1, 32, 512)
+10)class:V
+11)T:64
+12)graph-type:gen
+
+2023-06-21 15:56:27.368628
+Train:Parameter setting for LGGNet on DEAP
+1)number_class:2
+2)random_seed:2021
+3)learning_rate:0.001
+4)pool:16
+5)num_epochs:200
+6)batch_size:64
+7)dropout:0.5
+8)hidden_node:32
+9)input_shape:(1, 32, 512)
+10)class:V
+11)T:64
+12)graph-type:gen
+
+2023-06-23 12:03:28.622508
+Train:Parameter setting for LGGNet on DEAP
+1)number_class:2
+2)random_seed:2021
+3)learning_rate:0.001
+4)pool:16
+5)num_epochs:200
+6)batch_size:64
+7)dropout:0.5
+8)hidden_node:32
+9)input_shape:(1, 32, 512)
+10)class:V
+11)T:64
+12)graph-type:gen
+
+2023-06-23 12:07:44.767390
+Train:Parameter setting for LGGNet on DEAP
+1)number_class:2
+2)random_seed:2021
+3)learning_rate:0.001
+4)pool:16
+5)num_epochs:200
+6)batch_size:64
+7)dropout:0.5
+8)hidden_node:32
+9)input_shape:(1, 32, 512)
+10)class:V
+11)T:64
+12)graph-type:gen
+
+2023-06-23 12:20:55.166206
+Train:Parameter setting for LGGNet on DEAP
+1)number_class:2
+2)random_seed:2021
+3)learning_rate:0.001
+4)pool:16
+5)num_epochs:200
+6)batch_size:64
+7)dropout:0.5
+8)hidden_node:32
+9)input_shape:(1, 32, 512)
+10)class:V
+11)T:64
+12)graph-type:gen
+
+2023-06-23 12:23:53.068185
+Train:Parameter setting for LGGNet on DEAP
+1)number_class:2
+2)random_seed:2021
+3)learning_rate:0.001
+4)pool:16
+5)num_epochs:200
+6)batch_size:64
+7)dropout:0.5
+8)hidden_node:32
+9)input_shape:(1, 32, 512)
+10)class:V
+11)T:64
+12)graph-type:gen
+
+2023-07-03 11:46:55.397997
+Train:Parameter setting for LGGNet on DEAP
+1)number_class:4
+2)random_seed:2021
+3)learning_rate:0.001
+4)pool:16
+5)num_epochs:200
+6)batch_size:64
+7)dropout:0.5
+8)hidden_node:32
+9)input_shape:(1, 32, 512)
+10)class:V
+11)T:64
+12)graph-type:gen
+
+2023-07-03 11:50:05.101542
+Train:Parameter setting for LGGNet on DEAP
+1)number_class:4
+2)random_seed:2021
+3)learning_rate:0.001
+4)pool:16
+5)num_epochs:200
+6)batch_size:64
+7)dropout:0.5
+8)hidden_node:32
+9)input_shape:(1, 32, 512)
+10)class:V
+11)T:64
+12)graph-type:gen
+
+2023-07-03 11:51:38.160431
+Train:Parameter setting for LGGNet on DEAP
+1)number_class:2
+2)random_seed:2021
+3)learning_rate:0.001
+4)pool:16
+5)num_epochs:200
+6)batch_size:64
+7)dropout:0.5
+8)hidden_node:32
+9)input_shape:(1, 32, 512)
+10)class:V
+11)T:64
+12)graph-type:gen
+
+2023-07-03 12:00:16.437486
+Train:Parameter setting for LGGNet on DEAP
+1)number_class:2
+2)random_seed:2021
+3)learning_rate:0.001
+4)pool:16
+5)num_epochs:200
+6)batch_size:64
+7)dropout:0.5
+8)hidden_node:32
+9)input_shape:(1, 32, 512)
+10)class:V
+11)T:64
+12)graph-type:gen
+
+2023-07-03 12:05:00.795057
+Train:Parameter setting for LGGNet on DEAP
+1)number_class:2
+2)random_seed:2021
+3)learning_rate:0.001
+4)pool:16
+5)num_epochs:200
+6)batch_size:64
+7)dropout:0.5
+8)hidden_node:32
+9)input_shape:(1, 32, 512)
+10)class:V
+11)T:64
+12)graph-type:gen
+
+2023-07-04 11:25:56.677109
+Train:Parameter setting for LGGNet on DEAP
+1)number_class:2
+2)random_seed:2021
+3)learning_rate:0.001
+4)pool:16
+5)num_epochs:200
+6)batch_size:64
+7)dropout:0.5
+8)hidden_node:32
+9)input_shape:(1, 32, 512)
+10)class:V
+11)T:64
+12)graph-type:gen
+
+2023-07-04 11:26:31.194448
+Train:Parameter setting for LGGNet on DEAP
+1)number_class:2
+2)random_seed:2021
+3)learning_rate:0.001
+4)pool:16
+5)num_epochs:200
+6)batch_size:64
+7)dropout:0.5
+8)hidden_node:32
+9)input_shape:(1, 32, 512)
+10)class:V
+11)T:64
+12)graph-type:gen
+
+2023-07-04 11:36:31.635412
+Train:Parameter setting for LGGNet on DEAP
+1)number_class:2
+2)random_seed:2021
+3)learning_rate:0.001
+4)pool:16
+5)num_epochs:200
+6)batch_size:64
+7)dropout:0.5
+8)hidden_node:32
+9)input_shape:(1, 32, 512)
+10)class:V
+11)T:64
+12)graph-type:gen
+
+2023-07-04 11:37:06.630032
+Train:Parameter setting for LGGNet on DEAP
+1)number_class:2
+2)random_seed:2021
+3)learning_rate:0.001
+4)pool:16
+5)num_epochs:200
+6)batch_size:64
+7)dropout:0.5
+8)hidden_node:32
+9)input_shape:(1, 32, 512)
+10)class:V
+11)T:64
+12)graph-type:gen
+
+2023-07-04 11:38:12.839193
+Train:Parameter setting for LGGNet on DEAP
+1)number_class:2
+2)random_seed:2021
+3)learning_rate:0.001
+4)pool:16
+5)num_epochs:200
+6)batch_size:64
+7)dropout:0.5
+8)hidden_node:32
+9)input_shape:(1, 32, 512)
+10)class:V
+11)T:64
+12)graph-type:gen
+
+2023-07-04 11:38:35.934006
+Train:Parameter setting for LGGNet on DEAP
+1)number_class:2
+2)random_seed:2021
+3)learning_rate:0.001
+4)pool:16
+5)num_epochs:200
+6)batch_size:64
+7)dropout:0.5
+8)hidden_node:32
+9)input_shape:(1, 32, 512)
+10)class:V
+11)T:64
+12)graph-type:gen
+
+2023-07-04 14:56:40.778823
+Train:Parameter setting for LGGNet on DEAP
+1)number_class:2
+2)random_seed:2021
+3)learning_rate:0.001
+4)pool:16
+5)num_epochs:200
+6)batch_size:64
+7)dropout:0.5
+8)hidden_node:32
+9)input_shape:(1, 32, 512)
+10)class:V
+11)T:64
+12)graph-type:gen
+
+2023-09-11 17:58:32.511817
+Train:Parameter setting for LGGNet on DEAP
+1)number_class:4
+2)random_seed:2021
+3)learning_rate:0.001
+4)pool:16
+5)num_epochs:200
+6)batch_size:64
+7)dropout:0.5
+8)hidden_node:32
+9)input_shape:(1, 32, 512)
+10)class:V
+11)T:64
+12)graph-type:gen

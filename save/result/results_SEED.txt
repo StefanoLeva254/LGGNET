@@ -1,0 +1,1299 @@
+2023-07-26 22:49:31.259807
+Train:Parameter setting for LGGNet on SEED
+1)number_class:4
+2)random_seed:2021
+3)learning_rate:0.001
+4)pool:16
+5)num_epochs:200
+6)batch_size:64
+7)dropout:0.5
+8)hidden_node:32
+9)input_shape:(1, 32, 512)
+10)class:V
+11)T:64
+12)graph-type:gen
+0.9611111111111111,0.9611111111111111
+0.9027777777777778,0.9027777777777778
+0.8833333333333333,0.8833333333333333
+0.8944444444444445,0.8944444444444444
+0.8388888888888889,0.8388888888888889
+0.8555555555555555,0.8555555555555555
+0.8861111111111111,0.8861111111111111
+0.8944444444444445,0.8944444444444444
+0.8861111111111111,0.8861111111111111
+0.9166666666666666,0.9166666666666666
+0.8583333333333333,0.8583333333333333
+0.8805555555555555,0.8805555555555555
+0.8222222222222222,0.8222222222222222
+0.9111111111111111,0.9111111111111111
+0.8694444444444445,0.8694444444444445
+test mAcc=0.8840740740740739 mF1=0.8840740740740739 val mAcc=0.9213621933621934 val F1=0.9213621933621934
+
+2023-07-27 03:50:57.422173
+Train:Parameter setting for LGGNet on SEED
+1)number_class:4
+2)random_seed:2021
+3)learning_rate:0.001
+4)pool:16
+5)num_epochs:200
+6)batch_size:64
+7)dropout:0.5
+8)hidden_node:32
+9)input_shape:(1, 32, 512)
+10)class:V
+11)T:64
+12)graph-type:gen
+0.7888888888888889,0.7888888888888889
+0.8805555555555555,0.8805555555555555
+0.8277777777777777,0.8277777777777777
+0.8944444444444445,0.8944444444444444
+0.8472222222222222,0.8472222222222222
+0.9027777777777778,0.9027777777777778
+0.8722222222222222,0.8722222222222223
+0.8388888888888889,0.8388888888888889
+0.8777777777777778,0.8777777777777779
+0.8277777777777777,0.8277777777777777
+0.8833333333333333,0.8833333333333333
+0.8666666666666667,0.8666666666666667
+0.8861111111111111,0.8861111111111111
+0.8833333333333333,0.8833333333333333
+0.8611111111111112,0.8611111111111112
+test mAcc=0.8625925925925926 mF1=0.8625925925925926 val mAcc=0.8936228956228957 val F1=0.8936228956228957
+
+2023-07-27 11:33:58.794343
+Train:Parameter setting for LGGNet on SEED
+1)number_class:4
+2)random_seed:2021
+3)learning_rate:0.001
+4)pool:16
+5)num_epochs:200
+6)batch_size:64
+7)dropout:0.5
+8)hidden_node:32
+9)input_shape:(1, 32, 512)
+10)class:V
+11)T:64
+12)graph-type:gen
+0.8833333333333333,0.8833333333333333
+0.8722222222222222,0.8722222222222223
+0.7722222222222223,0.7722222222222223
+0.8805555555555555,0.8805555555555555
+0.8805555555555555,0.8805555555555555
+0.8638888888888889,0.8638888888888889
+0.8888888888888888,0.8888888888888888
+0.8527777777777777,0.8527777777777777
+0.8916666666666667,0.8916666666666667
+0.8194444444444444,0.8194444444444444
+0.8722222222222222,0.8722222222222223
+0.8666666666666667,0.8666666666666667
+0.8777777777777778,0.8777777777777779
+0.8722222222222222,0.8722222222222223
+0.8638888888888889,0.8638888888888889
+test mAcc=0.8638888888888888 mF1=0.8638888888888888 val mAcc=0.8946503126503128 val F1=0.8946503126503128
+
+2023-09-12 12:21:41.625723
+Train:Parameter setting for LGGNet on SEED
+1)number_class:4
+2)random_seed:2021
+3)learning_rate:0.001
+4)pool:16
+5)num_epochs:200
+6)batch_size:64
+7)dropout:0.5
+8)hidden_node:32
+9)input_shape:(1, 32, 512)
+10)class:V
+11)T:64
+12)graph-type:gen
+
+2023-09-12 13:44:26.360190
+Train:Parameter setting for LGGNet on SEED
+1)number_class:4
+2)random_seed:2021
+3)learning_rate:0.001
+4)pool:16
+5)num_epochs:200
+6)batch_size:64
+7)dropout:0.5
+8)hidden_node:32
+9)input_shape:(1, 32, 512)
+10)class:V
+11)T:64
+12)graph-type:gen
+
+2023-09-17 17:18:05.011501
+Train:Parameter setting for LGGNet on SEED
+1)number_class:4
+2)random_seed:2021
+3)learning_rate:0.001
+4)pool:16
+5)num_epochs:200
+6)batch_size:64
+7)dropout:0.5
+8)hidden_node:32
+9)input_shape:(1, 32, 512)
+10)class:V
+11)T:64
+12)graph-type:gen
+
+2023-09-21 12:23:10.393797
+Train:Parameter setting for LGGNet on SEED
+1)number_class:4
+2)random_seed:2021
+3)learning_rate:0.001
+4)pool:16
+5)num_epochs:200
+6)batch_size:64
+7)dropout:0.5
+8)hidden_node:32
+9)input_shape:(1, 32, 512)
+10)class:V
+11)T:64
+12)graph-type:gen
+
+2023-09-21 13:40:45.283940
+Train:Parameter setting for LGGNet on SEED
+1)number_class:4
+2)random_seed:2021
+3)learning_rate:0.001
+4)pool:16
+5)num_epochs:200
+6)batch_size:64
+7)dropout:0.5
+8)hidden_node:32
+9)input_shape:(1, 32, 512)
+10)class:V
+11)T:64
+12)graph-type:gen
+
+2023-09-21 13:43:13.299170
+Train:Parameter setting for LGGNet on SEED
+1)number_class:4
+2)random_seed:2021
+3)learning_rate:0.001
+4)pool:16
+5)num_epochs:200
+6)batch_size:64
+7)dropout:0.5
+8)hidden_node:32
+9)input_shape:(1, 32, 512)
+10)class:V
+11)T:64
+12)graph-type:gen
+
+2023-09-21 13:47:58.317857
+Train:Parameter setting for LGGNet on SEED
+1)number_class:4
+2)random_seed:2021
+3)learning_rate:0.001
+4)pool:16
+5)num_epochs:200
+6)batch_size:64
+7)dropout:0.5
+8)hidden_node:32
+9)input_shape:(1, 32, 512)
+10)class:V
+11)T:64
+12)graph-type:gen
+
+2023-09-21 14:22:06.776309
+Train:Parameter setting for LGGNet on SEED
+1)number_class:4
+2)random_seed:2021
+3)learning_rate:0.001
+4)pool:16
+5)num_epochs:200
+6)batch_size:64
+7)dropout:0.5
+8)hidden_node:32
+9)input_shape:(1, 32, 512)
+10)class:V
+11)T:64
+12)graph-type:gen
+
+2023-09-21 14:44:05.346172
+Train:Parameter setting for LGGNet on SEED
+1)number_class:4
+2)random_seed:2021
+3)learning_rate:0.001
+4)pool:16
+5)num_epochs:200
+6)batch_size:64
+7)dropout:0.5
+8)hidden_node:32
+9)input_shape:(1, 32, 512)
+10)class:V
+11)T:64
+12)graph-type:gen
+1.0,1.0
+0.8916666666666667,0.8916666666666667
+
+2023-09-21 15:56:53.996773
+Train:Parameter setting for LGGNet on SEED
+1)number_class:4
+2)random_seed:2021
+3)learning_rate:0.001
+4)pool:16
+5)num_epochs:200
+6)batch_size:64
+7)dropout:0.5
+8)hidden_node:32
+9)input_shape:(1, 32, 512)
+10)class:V
+11)T:64
+12)graph-type:gen
+
+2023-09-21 16:07:20.802173
+Train:Parameter setting for LGGNet on SEED
+1)number_class:4
+2)random_seed:2021
+3)learning_rate:0.001
+4)pool:16
+5)num_epochs:200
+6)batch_size:64
+7)dropout:0.5
+8)hidden_node:32
+9)input_shape:(1, 32, 512)
+10)class:V
+11)T:64
+12)graph-type:gen
+
+2023-09-21 17:15:27.343716
+Train:Parameter setting for LGGNet on SEED
+1)number_class:4
+2)random_seed:2021
+3)learning_rate:0.001
+4)pool:16
+5)num_epochs:200
+6)batch_size:64
+7)dropout:0.5
+8)hidden_node:32
+9)input_shape:(1, 32, 512)
+10)class:V
+11)T:64
+12)graph-type:gen
+
+2023-09-24 12:54:08.584841
+Train:Parameter setting for LGGNet on SEED
+1)number_class:4
+2)random_seed:2021
+3)learning_rate:0.001
+4)pool:16
+5)num_epochs:200
+6)batch_size:64
+7)dropout:0.5
+8)hidden_node:32
+9)input_shape:(1, 32, 512)
+10)class:V
+11)T:64
+12)graph-type:gen
+
+2023-09-24 17:16:24.836359
+Train:Parameter setting for LGGNet on SEED
+1)number_class:4
+2)random_seed:2021
+3)learning_rate:0.001
+4)pool:16
+5)num_epochs:200
+6)batch_size:64
+7)dropout:0.5
+8)hidden_node:32
+9)input_shape:(1, 32, 512)
+10)class:V
+11)T:64
+12)graph-type:gen
+
+2023-09-24 18:06:42.194743
+Train:Parameter setting for LGGNet on SEED
+1)number_class:4
+2)random_seed:2021
+3)learning_rate:0.001
+4)pool:16
+5)num_epochs:200
+6)batch_size:64
+7)dropout:0.5
+8)hidden_node:32
+9)input_shape:(1, 32, 512)
+10)class:V
+11)T:64
+12)graph-type:gen
+
+2023-09-24 19:24:03.984643
+Train:Parameter setting for LGGNet on SEED
+1)number_class:4
+2)random_seed:2021
+3)learning_rate:0.001
+4)pool:16
+5)num_epochs:200
+6)batch_size:64
+7)dropout:0.5
+8)hidden_node:32
+9)input_shape:(1, 32, 512)
+10)class:V
+11)T:64
+12)graph-type:gen
+1.0,1.0
+
+2023-09-24 20:03:54.013163
+Train:Parameter setting for LGGNet on SEED
+1)number_class:4
+2)random_seed:2021
+3)learning_rate:0.001
+4)pool:16
+5)num_epochs:200
+6)batch_size:64
+7)dropout:0.5
+8)hidden_node:32
+9)input_shape:(1, 32, 512)
+10)class:V
+11)T:64
+12)graph-type:gen
+
+2023-09-24 20:05:32.125258
+Train:Parameter setting for LGGNet on SEED
+1)number_class:4
+2)random_seed:2021
+3)learning_rate:0.001
+4)pool:16
+5)num_epochs:200
+6)batch_size:64
+7)dropout:0.5
+8)hidden_node:32
+9)input_shape:(1, 32, 512)
+10)class:V
+11)T:64
+12)graph-type:gen
+
+2023-09-24 20:06:39.009970
+Train:Parameter setting for LGGNet on SEED
+1)number_class:4
+2)random_seed:2021
+3)learning_rate:0.001
+4)pool:16
+5)num_epochs:200
+6)batch_size:64
+7)dropout:0.5
+8)hidden_node:32
+9)input_shape:(1, 32, 512)
+10)class:V
+11)T:64
+12)graph-type:gen
+1.0,1.0
+1.0,1.0
+0.9916666666666667,0.9916666666666667
+0.7777777777777778,0.7777777777777778
+0.7388888888888889,0.7388888888888889
+0.8694444444444445,0.8694444444444445
+0.85,0.85
+0.8722222222222222,0.8722222222222223
+0.8666666666666667,0.8666666666666667
+0.8861111111111111,0.8861111111111111
+0.8166666666666667,0.8166666666666667
+0.8055555555555556,0.8055555555555556
+0.85,0.85
+0.8694444444444445,0.8694444444444445
+0.8194444444444444,0.8194444444444444
+test mAcc=0.8675925925925925 mF1=0.8675925925925925 val mAcc=0.9046445406445407 val F1=0.9046445406445407
+
+2023-09-25 12:09:56.076397
+Train:Parameter setting for LGGNet on SEED
+1)number_class:4
+2)random_seed:2021
+3)learning_rate:0.001
+4)pool:16
+5)num_epochs:200
+6)batch_size:64
+7)dropout:0.5
+8)hidden_node:32
+9)input_shape:(1, 32, 512)
+10)class:V
+11)T:64
+12)graph-type:gen
+0.9916666666666667,0.9916666666666667
+0.9944444444444445,0.9944444444444445
+0.9972222222222222,0.9972222222222222
+0.9916666666666667,0.9916666666666667
+0.9361111111111111,0.9361111111111111
+0.975,0.975
+0.9972222222222222,0.9972222222222222
+0.9916666666666667,0.9916666666666667
+0.9777777777777777,0.9777777777777777
+0.9916666666666667,0.9916666666666667
+0.9638888888888889,0.9638888888888889
+0.9694444444444444,0.9694444444444444
+
+2023-09-26 11:47:16.477078
+Train:Parameter setting for LGGNet on SEED
+1)number_class:4
+2)random_seed:2021
+3)learning_rate:0.001
+4)pool:16
+5)num_epochs:200
+6)batch_size:64
+7)dropout:0.5
+8)hidden_node:32
+9)input_shape:(1, 32, 512)
+10)class:V
+11)T:64
+12)graph-type:gen
+
+2023-09-26 11:48:09.955970
+Train:Parameter setting for LGGNet on SEED
+1)number_class:4
+2)random_seed:2021
+3)learning_rate:0.001
+4)pool:16
+5)num_epochs:200
+6)batch_size:64
+7)dropout:0.5
+8)hidden_node:32
+9)input_shape:(1, 32, 512)
+10)class:V
+11)T:64
+12)graph-type:gen
+
+2023-09-26 11:48:47.833559
+Train:Parameter setting for LGGNet on SEED
+1)number_class:4
+2)random_seed:2021
+3)learning_rate:0.001
+4)pool:16
+5)num_epochs:200
+6)batch_size:64
+7)dropout:0.5
+8)hidden_node:32
+9)input_shape:(1, 32, 512)
+10)class:V
+11)T:64
+12)graph-type:gen
+0.9972222222222222,0.9972222222222222
+
+2023-09-26 12:20:16.060017
+Train:Parameter setting for LGGNet on SEED
+1)number_class:4
+2)random_seed:2021
+3)learning_rate:0.001
+4)pool:16
+5)num_epochs:200
+6)batch_size:64
+7)dropout:0.5
+8)hidden_node:32
+9)input_shape:(1, 32, 512)
+10)class:V
+11)T:64
+12)graph-type:gen
+
+2023-09-26 12:21:40.008283
+Train:Parameter setting for LGGNet on SEED
+1)number_class:4
+2)random_seed:2021
+3)learning_rate:0.001
+4)pool:16
+5)num_epochs:200
+6)batch_size:64
+7)dropout:0.5
+8)hidden_node:32
+9)input_shape:(1, 32, 512)
+10)class:V
+11)T:64
+12)graph-type:gen
+
+2023-09-26 12:32:00.147128
+Train:Parameter setting for LGGNet on SEED
+1)number_class:4
+2)random_seed:2021
+3)learning_rate:0.001
+4)pool:16
+5)num_epochs:200
+6)batch_size:64
+7)dropout:0.5
+8)hidden_node:32
+9)input_shape:(1, 32, 512)
+10)class:V
+11)T:64
+12)graph-type:gen
+0.8777777777777778,0.8777777777777779
+0.9027777777777778,0.9027777777777778
+0.8805555555555555,0.8805555555555555
+0.8888888888888888,0.8888888888888888
+0.8527777777777777,0.8527777777777777
+
+2023-09-26 14:59:51.665874
+Train:Parameter setting for LGGNet on SEED
+1)number_class:4
+2)random_seed:2021
+3)learning_rate:0.001
+4)pool:16
+5)num_epochs:30
+6)batch_size:64
+7)dropout:0.5
+8)hidden_node:32
+9)input_shape:(1, 32, 512)
+10)class:V
+11)T:64
+12)graph-type:gen
+
+2023-09-26 15:32:02.845654
+Train:Parameter setting for LGGNet on SEED
+1)number_class:4
+2)random_seed:2021
+3)learning_rate:0.001
+4)pool:16
+5)num_epochs:30
+6)batch_size:64
+7)dropout:0.5
+8)hidden_node:32
+9)input_shape:(1, 32, 512)
+10)class:V
+11)T:64
+12)graph-type:gen
+
+2023-09-26 15:49:16.594867
+Train:Parameter setting for LGGNet on SEED
+1)number_class:4
+2)random_seed:2021
+3)learning_rate:0.001
+4)pool:16
+5)num_epochs:30
+6)batch_size:64
+7)dropout:0.5
+8)hidden_node:32
+9)input_shape:(1, 32, 512)
+10)class:V
+11)T:64
+12)graph-type:gen
+
+2023-09-26 17:05:50.660028
+Train:Parameter setting for LGGNet on SEED
+1)number_class:4
+2)random_seed:2021
+3)learning_rate:0.001
+4)pool:16
+5)num_epochs:30
+6)batch_size:64
+7)dropout:0.5
+8)hidden_node:32
+9)input_shape:(1, 32, 512)
+10)class:V
+11)T:64
+12)graph-type:gen
+
+2023-09-26 17:57:43.995868
+Train:Parameter setting for LGGNet on SEED
+1)number_class:4
+2)random_seed:2021
+3)learning_rate:0.001
+4)pool:16
+5)num_epochs:30
+6)batch_size:64
+7)dropout:0.5
+8)hidden_node:32
+9)input_shape:(1, 32, 512)
+10)class:V
+11)T:64
+12)graph-type:gen
+1.0,1.0
+
+2023-09-26 18:06:22.409869
+Train:Parameter setting for LGGNet on SEED
+1)number_class:4
+2)random_seed:2021
+3)learning_rate:0.001
+4)pool:16
+5)num_epochs:35
+6)batch_size:64
+7)dropout:0.5
+8)hidden_node:32
+9)input_shape:(1, 32, 512)
+10)class:V
+11)T:64
+12)graph-type:gen
+1.0,1.0
+
+2023-09-26 18:16:43.624858
+Train:Parameter setting for LGGNet on SEED
+1)number_class:4
+2)random_seed:2021
+3)learning_rate:0.001
+4)pool:16
+5)num_epochs:35
+6)batch_size:64
+7)dropout:0.5
+8)hidden_node:32
+9)input_shape:(1, 32, 512)
+10)class:V
+11)T:64
+12)graph-type:gen
+0.8888888888888888,0.8888888888888888
+
+2023-09-26 18:27:24.871169
+Train:Parameter setting for LGGNet on SEED
+1)number_class:4
+2)random_seed:2021
+3)learning_rate:0.001
+4)pool:16
+5)num_epochs:50
+6)batch_size:64
+7)dropout:0.5
+8)hidden_node:32
+9)input_shape:(1, 32, 512)
+10)class:V
+11)T:64
+12)graph-type:gen
+
+2023-09-26 18:28:02.421898
+Train:Parameter setting for LGGNet on SEED
+1)number_class:4
+2)random_seed:2021
+3)learning_rate:0.001
+4)pool:16
+5)num_epochs:50
+6)batch_size:64
+7)dropout:0.5
+8)hidden_node:32
+9)input_shape:(1, 32, 512)
+10)class:V
+11)T:64
+12)graph-type:gen
+0.8833333333333333,0.8833333333333333
+0.9,0.9
+0.8888888888888888,0.8888888888888888
+0.8861111111111111,0.8861111111111111
+0.875,0.875
+0.8638888888888889,0.8638888888888889
+0.8666666666666667,0.8666666666666667
+0.8916666666666667,0.8916666666666667
+0.8972222222222223,0.8972222222222223
+0.9083333333333333,0.9083333333333333
+0.8916666666666667,0.8916666666666667
+0.8972222222222223,0.8972222222222223
+0.8833333333333333,0.8833333333333333
+0.8916666666666667,0.8916666666666667
+0.8888888888888888,0.8888888888888888
+test mAcc=0.8875925925925927 mF1=0.8875925925925927 val mAcc=0.9263597883597884 val F1=0.9263597883597884
+
+2023-09-27 14:18:49.012049
+Train:Parameter setting for LGGNet on SEED
+1)number_class:4
+2)random_seed:2021
+3)learning_rate:0.001
+4)pool:16
+5)num_epochs:28
+6)batch_size:64
+7)dropout:0.5
+8)hidden_node:32
+9)input_shape:(1, 32, 512)
+10)class:V
+11)T:64
+12)graph-type:gen
+0.8944444444444445,0.8944444444444444
+0.9305555555555556,0.9305555555555556
+0.8944444444444445,0.8944444444444444
+0.9138888888888889,0.9138888888888888
+0.8333333333333334,0.8333333333333334
+0.8805555555555555,0.8805555555555555
+
+2023-09-27 14:45:53.090938
+Train:Parameter setting for LGGNet on SEED
+1)number_class:4
+2)random_seed:2021
+3)learning_rate:0.001
+4)pool:16
+5)num_epochs:28
+6)batch_size:64
+7)dropout:0.5
+8)hidden_node:32
+9)input_shape:(1, 32, 512)
+10)class:V
+11)T:64
+12)graph-type:gen
+0.8777777777777778,0.8777777777777779
+0.8861111111111111,0.8861111111111111
+0.8694444444444445,0.8694444444444445
+0.8833333333333333,0.8833333333333333
+0.8666666666666667,0.8666666666666667
+0.8694444444444445,0.8694444444444445
+0.8972222222222223,0.8972222222222223
+0.8805555555555555,0.8805555555555555
+0.8944444444444445,0.8944444444444444
+0.9138888888888889,0.9138888888888888
+0.8972222222222223,0.8972222222222223
+0.9027777777777778,0.9027777777777778
+0.8833333333333333,0.8833333333333333
+0.9222222222222223,0.9222222222222223
+0.8861111111111111,0.8861111111111111
+test mAcc=0.8887037037037037 mF1=0.8887037037037037 val mAcc=0.9262953342953343 val F1=0.9262953342953343
+
+2023-09-27 15:54:19.129860
+Train:Parameter setting for LGGNet on SEED
+1)number_class:4
+2)random_seed:2021
+3)learning_rate:0.001
+4)pool:16
+5)num_epochs:28
+6)batch_size:64
+7)dropout:0.5
+8)hidden_node:32
+9)input_shape:(1, 32, 512)
+10)class:V
+11)T:64
+12)graph-type:gen
+0.8777777777777778,0.8777777777777779
+0.8861111111111111,0.8861111111111111
+0.8694444444444445,0.8694444444444445
+0.8833333333333333,0.8833333333333333
+0.8666666666666667,0.8666666666666667
+0.8694444444444445,0.8694444444444445
+
+2023-09-27 16:20:34.662675
+Train:Parameter setting for LGGNet on SEED
+1)number_class:4
+2)random_seed:2021
+3)learning_rate:0.001
+4)pool:16
+5)num_epochs:28
+6)batch_size:64
+7)dropout:0.5
+8)hidden_node:32
+9)input_shape:(1, 32, 512)
+10)class:V
+11)T:64
+12)graph-type:gen
+
+2023-09-27 16:20:57.674479
+Train:Parameter setting for LGGNet on SEED
+1)number_class:4
+2)random_seed:2021
+3)learning_rate:0.001
+4)pool:16
+5)num_epochs:28
+6)batch_size:64
+7)dropout:0.5
+8)hidden_node:32
+9)input_shape:(1, 32, 512)
+10)class:V
+11)T:64
+12)graph-type:gen
+
+2023-09-27 17:34:53.063887
+Train:Parameter setting for LGGNet on SEED
+1)number_class:4
+2)random_seed:2021
+3)learning_rate:0.001
+4)pool:16
+5)num_epochs:28
+6)batch_size:64
+7)dropout:0.5
+8)hidden_node:32
+9)input_shape:(1, 32, 512)
+10)class:V
+11)T:64
+12)graph-type:gen
+0.8777777777777778,0.8777777777777779
+0.8861111111111111,0.8861111111111111
+
+2023-09-27 17:47:48.811952
+Train:Parameter setting for LGGNet on SEED
+1)number_class:4
+2)random_seed:2021
+3)learning_rate:0.001
+4)pool:16
+5)num_epochs:28
+6)batch_size:64
+7)dropout:0.5
+8)hidden_node:32
+9)input_shape:(1, 32, 512)
+10)class:V
+11)T:64
+12)graph-type:gen
+0.8777777777777778,0.8777777777777779
+0.8861111111111111,0.8861111111111111
+0.8694444444444445,0.8694444444444445
+0.8833333333333333,0.8833333333333333
+0.8666666666666667,0.8666666666666667
+0.8694444444444445,0.8694444444444445
+0.8972222222222223,0.8972222222222223
+0.8805555555555555,0.8805555555555555
+0.8944444444444445,0.8944444444444444
+0.9138888888888889,0.9138888888888888
+0.8972222222222223,0.8972222222222223
+0.9027777777777778,0.9027777777777778
+0.8833333333333333,0.8833333333333333
+0.9222222222222223,0.9222222222222223
+0.8861111111111111,0.8861111111111111
+test mAcc=0.8887037037037037 mF1=0.8887037037037037 val mAcc=0.9262953342953343 val F1=0.9262953342953343
+
+2023-09-28 01:31:47.496704
+Train:Parameter setting for LGGNet on SEED
+1)number_class:4
+2)random_seed:2021
+3)learning_rate:0.001
+4)pool:16
+5)num_epochs:1
+6)batch_size:64
+7)dropout:0.5
+8)hidden_node:32
+9)input_shape:(1, 32, 512)
+10)class:V
+11)T:64
+12)graph-type:gen
+0.8583333333333333,0.8583333333333333
+0.9111111111111111,0.9111111111111111
+0.8861111111111111,0.8861111111111111
+0.9138888888888889,0.9138888888888888
+
+2023-09-28 01:34:20.471207
+Train:Parameter setting for LGGNet on SEED
+1)number_class:4
+2)random_seed:2021
+3)learning_rate:0.001
+4)pool:16
+5)num_epochs:1
+6)batch_size:64
+7)dropout:0.5
+8)hidden_node:32
+9)input_shape:(1, 32, 512)
+10)class:V
+11)T:64
+12)graph-type:gen
+0.9888888888888889,0.9888888888888889
+1.0,1.0
+0.9972222222222222,0.9972222222222222
+1.0,1.0
+
+2023-09-28 01:35:45.923015
+Train:Parameter setting for LGGNet on SEED
+1)number_class:4
+2)random_seed:2021
+3)learning_rate:0.001
+4)pool:16
+5)num_epochs:1
+6)batch_size:64
+7)dropout:0.5
+8)hidden_node:32
+9)input_shape:(1, 32, 512)
+10)class:V
+11)T:64
+12)graph-type:gen
+1.0,1.0
+1.0,1.0
+1.0,1.0
+1.0,1.0
+0.8861111111111111,0.8861111111111111
+
+2023-09-28 01:38:08.910130
+Train:Parameter setting for LGGNet on SEED
+1)number_class:4
+2)random_seed:2021
+3)learning_rate:0.001
+4)pool:16
+5)num_epochs:1
+6)batch_size:64
+7)dropout:0.5
+8)hidden_node:32
+9)input_shape:(1, 32, 512)
+10)class:V
+11)T:64
+12)graph-type:gen
+0.9972222222222222,0.9972222222222222
+1.0,1.0
+1.0,1.0
+
+2023-09-28 01:39:27.631017
+Train:Parameter setting for LGGNet on SEED
+1)number_class:4
+2)random_seed:2021
+3)learning_rate:0.001
+4)pool:16
+5)num_epochs:1
+6)batch_size:64
+7)dropout:0.5
+8)hidden_node:32
+9)input_shape:(1, 32, 512)
+10)class:V
+11)T:64
+12)graph-type:gen
+1.0,1.0
+1.0,1.0
+1.0,1.0
+1.0,1.0
+0.975,0.975
+0.9361111111111111,0.9361111111111111
+0.9083333333333333,0.9083333333333333
+0.9138888888888889,0.9138888888888888
+0.9611111111111111,0.9611111111111111
+0.9527777777777777,0.9527777777777777
+0.9722222222222222,0.9722222222222222
+0.9833333333333333,0.9833333333333333
+0.9888888888888889,0.9888888888888889
+1.0,1.0
+1.0,1.0
+test mAcc=0.9727777777777776 mF1=0.9727777777777775 val mAcc=0.9725685425685426 val F1=0.9725685425685426
+
+2023-09-28 01:48:17.721608
+Train:Parameter setting for LGGNet on SEED
+1)number_class:4
+2)random_seed:2021
+3)learning_rate:0.001
+4)pool:16
+5)num_epochs:1
+6)batch_size:64
+7)dropout:0.5
+8)hidden_node:32
+9)input_shape:(1, 32, 512)
+10)class:V
+11)T:64
+12)graph-type:gen
+1.0,1.0
+1.0,1.0
+1.0,1.0
+1.0,1.0
+0.9638888888888889,0.9638888888888889
+0.9777777777777777,0.9777777777777777
+0.9861111111111112,0.9861111111111112
+0.9916666666666667,0.9916666666666667
+0.9972222222222222,0.9972222222222222
+0.9888888888888889,0.9888888888888889
+0.9972222222222222,0.9972222222222222
+
+2023-09-28 01:51:51.805403
+Train:Parameter setting for LGGNet on SEED
+1)number_class:4
+2)random_seed:2021
+3)learning_rate:0.001
+4)pool:16
+5)num_epochs:1
+6)batch_size:64
+7)dropout:0.5
+8)hidden_node:32
+9)input_shape:(1, 32, 512)
+10)class:V
+11)T:64
+12)graph-type:gen
+0.9888888888888889,0.9888888888888889
+1.0,1.0
+1.0,1.0
+1.0,1.0
+0.9583333333333334,0.9583333333333334
+0.9972222222222222,0.9972222222222222
+1.0,1.0
+
+2023-09-28 01:54:03.213970
+Train:Parameter setting for LGGNet on SEED
+1)number_class:4
+2)random_seed:2021
+3)learning_rate:0.001
+4)pool:16
+5)num_epochs:1
+6)batch_size:64
+7)dropout:0.5
+8)hidden_node:32
+9)input_shape:(1, 32, 512)
+10)class:V
+11)T:64
+12)graph-type:gen
+1.0,1.0
+1.0,1.0
+1.0,1.0
+1.0,1.0
+0.9833333333333333,0.9833333333333333
+1.0,1.0
+0.9972222222222222,0.9972222222222222
+1.0,1.0
+1.0,1.0
+
+2023-09-28 01:56:44.241264
+Train:Parameter setting for LGGNet on SEED
+1)number_class:4
+2)random_seed:2021
+3)learning_rate:0.001
+4)pool:16
+5)num_epochs:1
+6)batch_size:64
+7)dropout:0.5
+8)hidden_node:32
+9)input_shape:(1, 32, 512)
+10)class:V
+11)T:64
+12)graph-type:gen
+1.0,1.0
+1.0,1.0
+1.0,1.0
+1.0,1.0
+0.9888888888888889,0.9888888888888889
+1.0,1.0
+1.0,1.0
+1.0,1.0
+1.0,1.0
+0.9944444444444445,0.9944444444444445
+1.0,1.0
+1.0,1.0
+0.9972222222222222,0.9972222222222222
+1.0,1.0
+1.0,1.0
+test mAcc=0.9987037037037038 mF1=0.9987037037037038 val mAcc=0.9930668590668591 val F1=0.9930668590668591
+
+2023-09-28 02:06:51.244596
+Train:Parameter setting for LGGNet on SEED
+1)number_class:4
+2)random_seed:2021
+3)learning_rate:0.001
+4)pool:16
+5)num_epochs:1
+6)batch_size:64
+7)dropout:0.5
+8)hidden_node:32
+9)input_shape:(1, 32, 512)
+10)class:V
+11)T:64
+12)graph-type:gen
+1.0,1.0
+1.0,1.0
+1.0,1.0
+1.0,1.0
+0.9777777777777777,0.9777777777777777
+1.0,1.0
+1.0,1.0
+1.0,1.0
+
+2023-09-28 02:09:26.433446
+Train:Parameter setting for LGGNet on SEED
+1)number_class:4
+2)random_seed:2021
+3)learning_rate:0.001
+4)pool:16
+5)num_epochs:1
+6)batch_size:64
+7)dropout:0.5
+8)hidden_node:32
+9)input_shape:(1, 32, 512)
+10)class:V
+11)T:64
+12)graph-type:gen
+1.0,1.0
+1.0,1.0
+1.0,1.0
+
+2023-09-28 02:10:38.472367
+Train:Parameter setting for LGGNet on SEED
+1)number_class:4
+2)random_seed:2021
+3)learning_rate:0.001
+4)pool:16
+5)num_epochs:1
+6)batch_size:64
+7)dropout:0.5
+8)hidden_node:32
+9)input_shape:(1, 32, 512)
+10)class:V
+11)T:64
+12)graph-type:gen
+1.0,1.0
+1.0,1.0
+1.0,1.0
+
+2023-09-28 02:12:00.624758
+Train:Parameter setting for LGGNet on SEED
+1)number_class:4
+2)random_seed:2021
+3)learning_rate:0.001
+4)pool:16
+5)num_epochs:1
+6)batch_size:64
+7)dropout:0.5
+8)hidden_node:32
+9)input_shape:(1, 32, 512)
+10)class:V
+11)T:64
+12)graph-type:gen
+1.0,1.0
+1.0,1.0
+1.0,1.0
+
+2023-09-28 02:13:04.914189
+Train:Parameter setting for LGGNet on SEED
+1)number_class:4
+2)random_seed:2021
+3)learning_rate:0.001
+4)pool:16
+5)num_epochs:1
+6)batch_size:64
+7)dropout:0.5
+8)hidden_node:32
+9)input_shape:(1, 32, 512)
+10)class:V
+11)T:64
+12)graph-type:gen
+1.0,1.0
+1.0,1.0
+1.0,1.0
+
+2023-09-28 02:14:17.868395
+Train:Parameter setting for LGGNet on SEED
+1)number_class:4
+2)random_seed:2021
+3)learning_rate:0.001
+4)pool:16
+5)num_epochs:1
+6)batch_size:64
+7)dropout:0.5
+8)hidden_node:32
+9)input_shape:(1, 32, 512)
+10)class:V
+11)T:64
+12)graph-type:gen
+1.0,1.0
+1.0,1.0
+1.0,1.0
+1.0,1.0
+0.9694444444444444,0.9694444444444444
+1.0,1.0
+1.0,1.0
+1.0,1.0
+1.0,1.0
+0.9944444444444445,0.9944444444444445
+1.0,1.0
+1.0,1.0
+0.9972222222222222,0.9972222222222222
+1.0,1.0
+1.0,1.0
+test mAcc=0.9974074074074074 mF1=0.9974074074074074 val mAcc=0.9934266474266473 val F1=0.9934266474266473
+
+2023-09-28 02:19:25.131795
+Train:Parameter setting for LGGNet on SEED
+1)number_class:4
+2)random_seed:2021
+3)learning_rate:0.001
+4)pool:16
+5)num_epochs:1
+6)batch_size:64
+7)dropout:0.5
+8)hidden_node:32
+9)input_shape:(1, 32, 512)
+10)class:V
+11)T:64
+12)graph-type:gen
+1.0,1.0
+1.0,1.0
+1.0,1.0
+1.0,1.0
+0.9833333333333333,0.9833333333333333
+1.0,1.0
+1.0,1.0
+1.0,1.0
+1.0,1.0
+1.0,1.0
+1.0,1.0
+1.0,1.0
+1.0,1.0
+1.0,1.0
+1.0,1.0
+test mAcc=0.9988888888888889 mF1=0.9988888888888889 val mAcc=0.9954093314093313 val F1=0.9954093314093313
+
+2023-09-28 02:24:57.400207
+Train:Parameter setting for LGGNet on SEED
+1)number_class:4
+2)random_seed:2021
+3)learning_rate:0.001
+4)pool:16
+5)num_epochs:28
+6)batch_size:64
+7)dropout:0.5
+8)hidden_node:32
+9)input_shape:(1, 32, 512)
+10)class:V
+11)T:64
+12)graph-type:gen
+
+2023-09-28 02:27:45.903711
+Train:Parameter setting for LGGNet on SEED
+1)number_class:4
+2)random_seed:2021
+3)learning_rate:0.001
+4)pool:16
+5)num_epochs:28
+6)batch_size:64
+7)dropout:0.5
+8)hidden_node:32
+9)input_shape:(1, 32, 512)
+10)class:V
+11)T:64
+12)graph-type:gen
+0.8777777777777778,0.8777777777777779
+0.8861111111111111,0.8861111111111111
+0.8694444444444445,0.8694444444444445
+0.8833333333333333,0.8833333333333333
+0.8666666666666667,0.8666666666666667
+0.8694444444444445,0.8694444444444445
+0.8972222222222223,0.8972222222222223
+0.8805555555555555,0.8805555555555555
+0.8944444444444445,0.8944444444444444
+0.9138888888888889,0.9138888888888888
+0.8972222222222223,0.8972222222222223
+0.9027777777777778,0.9027777777777778
+0.8833333333333333,0.8833333333333333
+0.9222222222222223,0.9222222222222223
+0.8861111111111111,0.8861111111111111
+test mAcc=0.8887037037037037 mF1=0.8887037037037037 val mAcc=0.9262953342953343 val F1=0.9262953342953343
+
+2023-09-28 12:36:40.553561
+Train:Parameter setting for LGGNet on SEED
+1)number_class:4
+2)random_seed:2021
+3)learning_rate:0.001
+4)pool:16
+5)num_epochs:28
+6)batch_size:64
+7)dropout:0.5
+8)hidden_node:32
+9)input_shape:(1, 32, 512)
+10)class:V
+11)T:64
+12)graph-type:gen
+0.8611111111111112,0.8611111111111112
+0.8944444444444445,0.8944444444444444
+0.8777777777777778,0.8777777777777779
+0.8777777777777778,0.8777777777777779
+0.8861111111111111,0.8861111111111111
+0.9,0.9
+0.8361111111111111,0.8361111111111111
+0.85,0.85
+0.8888888888888888,0.8888888888888888
+0.8777777777777778,0.8777777777777779
+0.8944444444444445,0.8944444444444444
+0.8944444444444445,0.8944444444444444
+0.8777777777777778,0.8777777777777779
+0.9055555555555556,0.9055555555555556
+0.8777777777777778,0.8777777777777779
+test mAcc=0.88 mF1=0.88 val mAcc=0.9114728234728234 val F1=0.9114728234728234
+
+2023-09-28 14:06:24.426731
+Train:Parameter setting for LGGNet on SEED
+1)number_class:4
+2)random_seed:2021
+3)learning_rate:0.001
+4)pool:16
+5)num_epochs:28
+6)batch_size:64
+7)dropout:0.5
+8)hidden_node:32
+9)input_shape:(1, 32, 512)
+10)class:V
+11)T:64
+12)graph-type:gen
+0.8944444444444445,0.8944444444444444
+0.8694444444444445,0.8694444444444445
+0.875,0.875
+0.8916666666666667,0.8916666666666667
+0.8805555555555555,0.8805555555555555
+0.8638888888888889,0.8638888888888889
+0.8916666666666667,0.8916666666666667
+0.9,0.9
+0.8888888888888888,0.8888888888888888
+0.8888888888888888,0.8888888888888888
+0.8833333333333333,0.8833333333333333
+0.8916666666666667,0.8916666666666667
+0.8861111111111111,0.8861111111111111
+0.8888888888888888,0.8888888888888888
+0.8444444444444444,0.8444444444444444
+test mAcc=0.8825925925925927 mF1=0.8825925925925927 val mAcc=0.91399037999038 val F1=0.91399037999038
